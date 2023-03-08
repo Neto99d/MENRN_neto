@@ -8,6 +8,7 @@
  ---
  Instalacion de dependencias para el proyecto de react native y para express backend (Carpeta backend):
  - npm install
+ ---
 **Proyecto ejemplo de Autenticación**
 - Gestor de Base de datos MongoDB
 - Backend con Express y Nodejs (Carpeta llamada backend) ejecutar comando `npm start`.
