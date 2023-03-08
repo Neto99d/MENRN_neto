@@ -10,4 +10,7 @@
 **Proyecto ejemplo de Autenticación**
 - Gestor de Base de datos MongoDB
 - Backend con Express y Nodejs (Carpeta llamada backend) ejecutar comando `npm start`.
-- Aplicación Móvil con React Native. Ejecutar comando `npx react-native run-android`, usar emulador (por ejemplo LdPlayer) o dispositivo móvil físico. 
+- Aplicación Móvil con React Native. Ejecutar comando `npx react-native run-android`, usar emulador (por ejemplo LdPlayer) o dispositivo móvil físico.
+
+---
+Ver Capturas de Pantalla en la carpeta `!!CAPTURAS DE PANTALLA`
