@@ -36,7 +36,7 @@ export default function Login({navigation}) {
     let password = initUser.password;
     let fvqr = initUser.serialqr.toUpperCase();
 
-    const resp = await axios.post('http://172.24.10.97:3001/api/signin', {
+    const resp = await axios.post('http://localhost:3001/api/signin', {
       name,
       password,
       fvqr,

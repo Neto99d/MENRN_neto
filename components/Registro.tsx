@@ -73,7 +73,7 @@ export default function Registro({navigation}) {
     let isRegister = userqr.R;
     let fvqr = userqr.FV;
 
-    const resp = await axios.post('http://172.24.10.97:3001/api/signup', {
+    const resp = await axios.post('http://localhost:3001/api/signup', {
       name,
       password,
       nombre,
