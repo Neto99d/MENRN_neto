@@ -1,5 +1,7 @@
 # MENRN_neto
  Mongo-ExpressNode-ReactNative
+ 
+ Proyecto de ejemplo de estudio, Autentcación mediante QR, no se profundizó en algunas cosas a nivel de manejo de información en base de datos como cifrado y demás.
  ---
  Más información sobre empezar y configurar React Native
  - https://reactnative.dev/docs/environment-setup
