@@ -5,6 +5,7 @@
  ---
  Más información sobre empezar y configurar React Native
  - https://reactnative.dev/docs/environment-setup
+ ---
  Instalacion de dependencias para el proyecto de react native y para express backend (Carpeta backend):
  - npm install
 **Proyecto ejemplo de Autenticación**
